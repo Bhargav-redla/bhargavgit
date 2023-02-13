@@ -10,6 +10,7 @@ import com.slokam.repository.productrepo;
 
 @RestController
 public class productcontroller {
+	//hi how are you?
 	@Autowired
 private productrepo Productrepo;
 @PostMapping("saveproduct")

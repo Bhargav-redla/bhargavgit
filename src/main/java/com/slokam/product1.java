@@ -10,6 +10,7 @@ import lombok.extern.slf4j.Slf4j;
 @Data
 @Slf4j
 public class product1 {
+	// hello
 	@Id
 	@GeneratedValue
 private int pid;
