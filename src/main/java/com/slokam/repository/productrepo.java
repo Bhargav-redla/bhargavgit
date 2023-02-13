@@ -7,5 +7,5 @@ import com.slokam.product1;
 
 
 public  interface productrepo extends JpaRepository<product1, Integer>{
-//repository
+//this is repository
 }
